@@ -1,0 +1,11 @@
+{
+  "users": [
+    {"id": 1, "name": "Nicolas", "objective": 1000},
+    {"id": 2, "name": "Math", "objective": 500}
+  ],
+  "deals": [
+    {"id": 1, "amount": 500, "user": 1},
+    {"id": 2, "amount": 1000, "user": 2},
+    {"id": 3, "amount": 800, "user": 1}
+  ]
+}

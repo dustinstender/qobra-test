@@ -1,0 +1,16 @@
+{
+  "users": [
+    {"id": 1, "name": "Nicolas", "objective": 1000},
+    {"id": 2, "name": "Math", "objective": 500}
+  ],
+  "deals": [
+    {"id": 1, "amount": 500, "user": 1, "close_date": "2018-05-01", "payment_date": "2018-05-20" },
+    {"id": 2, "amount": 1000, "user": 2, "close_date": "2018-05-15", "payment_date": "2018-05-25" },
+    {"id": 3, "amount": 800, "user": 1, "close_date": "2018-05-15", "payment_date": "2018-05-26" },
+    {"id": 4, "amount": 700, "user": 2, "close_date": "2018-05-25", "payment_date": "2018-06-02" },
+    {"id": 5, "amount": 700, "user": 1, "close_date": "2018-05-26", "payment_date": "2018-05-30" },
+    {"id": 6, "amount": 1000, "user": 1, "close_date": "2018-05-30", "payment_date": "2018-06-13" },
+    {"id": 7, "amount": 550, "user": 2, "close_date": "2018-06-02", "payment_date": "2018-07-06" },
+    {"id": 8, "amount": 600, "user": 1, "close_date": "2018-06-15", "payment_date": "2018-06-18" }
+  ]
+}

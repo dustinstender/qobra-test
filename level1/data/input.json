@@ -1,0 +1,14 @@
+{
+  "users": [
+    {"id": 1, "name": "Nicolas"},
+    {"id": 2, "name": "Math"}
+  ],
+  "deals": [
+    {"id": 1, "amount": 500, "user": 1},
+    {"id": 2, "amount": 1000, "user": 2},
+    {"id": 3, "amount": 800, "user": 1},
+    {"id": 4, "amount": 1000, "user": 2},
+    {"id": 5, "amount": 300, "user": 2},
+    {"id": 6, "amount": 300, "user": 2}
+  ]
+}
