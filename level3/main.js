@@ -1,4 +1,4 @@
-const object = require('/Users/dustinstender/Downloads/serpentini - candidat/level3/data/input.json');
+const object = require('./data/input.json');
 
 // more useful because day of month is redundant
 function deleteDayInDate(string) {

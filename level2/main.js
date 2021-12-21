@@ -1,4 +1,4 @@
-const object = require('/Users/dustinstender/Downloads/serpentini - candidat/level2/data/input.json');
+const object = require('./data/input.json');
 
 // calculates commission given the total amount and their objective
 function computeCommission(amount, objective) {

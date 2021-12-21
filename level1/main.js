@@ -1,4 +1,4 @@
-const input = require('/Users/dustinstender/Downloads/serpentini - candidat/level1/data/input.json');
+const input = require('./data/input.json');
 
 // calculates the commission
 function computeCommission(jsonFile) {
